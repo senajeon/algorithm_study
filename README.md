@@ -1,6 +1,7 @@
 # Algorithm_study
 
-##### [Data Structure & Algorithm self study](https://colab.research.google.com/drive/1Lyq31L9QgmZS2OH0I-QhixHjdPZrtriM#scrollTo=cGs9E78gYQKj)
+##### [Algorithm & Data Structure](https://colab.research.google.com/drive/1Lyq31L9QgmZS2OH0I-QhixHjdPZrtriM)
+
 
 ##### Session 1 [Recursive Algorithms](https://colab.research.google.com/drive/1LaaSsrhR9lwcYNrrIV8QZGOxZBI2tBxL)
 
